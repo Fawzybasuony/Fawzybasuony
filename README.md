@@ -41,22 +41,16 @@
 
 ## 📊 GitHub Statistics  
 
-![Fawzy's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical&hide_border=false)  
+![Fawzy's GitHub stats](https://github-readme-stats.vercel.app/api?Fawzybasuony&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?Fawzybasuony&layout=compact&theme=radical)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?Fawzybasuony&theme=radical&hide_border=false)  
 
 ---
 
 ## 🏆 GitHub Trophies  
 
-![Trophy](https://github-profile-trophy.vercel.app/?username=your-username&theme=radical&no-frame=false&no-bg=true&margin-w=4)  
+![Trophy](https://github-profile-trophy.vercel.app/?Fawzybasuony&theme=radical&no-frame=false&no-bg=true&margin-w=4)  
 
----
-
-## 🗂️ Highlight Projects  
-
-- 🔹 [Awesome Project 1](https://github.com/your-username/project1)  
-- 🔹 [Awesome Project 2](https://github.com/your-username/project2)  
-- 🔹 [Awesome Project 3](https://github.com/your-username/project3)  
-
+ 
+ 
 ---
