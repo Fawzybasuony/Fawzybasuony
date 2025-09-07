@@ -47,11 +47,9 @@
 ![Trophy](https://github-profile-trophy.vercel.app/?username=Fawzybasuony&theme=radical&no-frame=false&no-bg=true&margin-w=4)  
 
 ---
-
 ## 🏆 GitHub Trophies  
 
-![Trophy](https://github-profile-trophy.vercel.app/?Fawzybasuony&theme=radical&no-frame=false&no-bg=true&margin-w=4)  
+![Trophy](https://github-profile-trophy.vercel.app/?username=Fawzybasuony&theme=radical&no-frame=false&no-bg=true&margin-w=4)  
 
- 
  
 ---
