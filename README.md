@@ -40,18 +40,17 @@
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) 
 
  ---
-
 ## 📊 GitHub Statistics  
 
 ![Fawzy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fawzybasuony&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fawzybasuony&layout=compact&theme=radical)  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Fawzybasuony&theme=radical&hide_border=false)  
-![Trophy](https://github-profile-trophy.vercel.app/?username=Fawzybasuony&theme=radical&no-frame=false&no-bg=true&margin-w=4)  
 
 ---
+
 ## 🏆 GitHub Trophies  
 
-![Trophy](https://github-profile-trophy.vercel.app/?username=Fawzybasuony&theme=radical&no-frame=false&no-bg=true&margin-w=4)  
+![Trophy](https://github-profile-trophy.vercel.app/?username=Fawzybasuony&theme=radical&no-frame=false&no-bg=true&margin-w=4&row=1&column=6)  
 
  
 ---
