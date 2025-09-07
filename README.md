@@ -26,8 +26,8 @@
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)  
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)  
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)  
-![shadcn/ui](https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge&logo=radixui&logoColor=white)
 ![Material UI](https://img.shields.io/badge/materialui-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)  
+![shadcn/ui](https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge&logo=radixui&logoColor=white)  
 
 
 **Backend & Database:**  
