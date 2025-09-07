@@ -43,7 +43,7 @@
 ## 📊 GitHub Statistics  
 
 ![Fawzy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fawzybasuony&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fawzybasuony&theme=radical&langs_count=8)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fawzybasuony&layout=compact&theme=radical&langs_count=8)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Fawzybasuony&theme=radical&hide_border=false)  
 
 ---
