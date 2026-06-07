@@ -50,7 +50,8 @@ architecture focused on performance, SEO, and responsive design
 
 ## 🏆 GitHub Trophies  
 
-![Trophy](https://github-profile-trophy.vercel.app/?username=Fawzybasuony&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1&column=6)
+![Trophy](https://github-profile-trophy.vercel.app/?username=Fawzybasuony&theme=radical&no-frame=true&no-bg=true&margin-w=8&column=6)
+
 
  
 ---
