@@ -5,11 +5,35 @@ solutions. Strong in TypeScript, Tailwind CSS, Redux Toolkit, TanStack Query, RE
 architecture focused on performance, SEO, and responsive design 
 
 ---
+## ⚡ Highlights  
+
+- 🚀 Built scalable ERP & dashboard systems  
+- 🎯 Developed high-performance Next.js applications  
+- 🧠 Integrated AI-based features in real projects  
+- ⚙️ Strong focus on performance, SEO & UX optimization  
+- 📱 Fully responsive UI/UX across all devices  
+---
+
+## 🚀 Featured Projects  
+
+### 🛒 E-Commerce Platform  
+- Next.js + Redux Toolkit + Stripe  
+- Full admin dashboard + product management  
+
+### 🎓 E-Learning Platform  
+- React.js + Node.js + MongoDB  
+- Courses, payments, and progress tracking  
+
+### 🧠 AI Dashboard System  
+- AI-integrated UI tools  
+- Real-time analytics & data visualization
+  
+---
 
 ## 🔗 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fawzy-basuony-0592b32a6/)  
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/)  
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/fawzy-basuony-0592b32a6/)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/Fawzybasuony)  
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook)](https://www.facebook.com/)  
 ---
 
 ## 🛠️ Tech Stack  
@@ -49,9 +73,12 @@ architecture focused on performance, SEO, and responsive design
  ---
 ## 📊 GitHub Statistics  
  
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Fawzybasuony&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Fawzybasuony&layout=compact&theme=radical)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Fawzybasuony&theme=radical)
  
  
- 
 ---
+
