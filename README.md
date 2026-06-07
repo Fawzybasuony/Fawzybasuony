@@ -40,10 +40,15 @@ architecture focused on performance, SEO, and responsive design
 
  ---
 ## 📊 GitHub Statistics  
+![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Fawzybasuony&show_icons=true&theme=radical)
 
-![Fawzy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fawzybasuony&show_icons=true&theme=radical)
+---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fawzybasuony&layout=compact&theme=radical)
+## 🔥 Top Languages
+
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Fawzybasuony&layout=compact&theme=radical)
+
+---
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Fawzybasuony&theme=radical)
 ---
