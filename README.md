@@ -1,9 +1,8 @@
 ## 👨‍💻 About Me
-- 🌱 Front-End Developer skilled in building modern, responsive, and user-friendly web applications  
-- 💡 Proficient in React.js, Next.js, Redux Toolkit, and various UI frameworks like Bootstrap, Tailwind, and Material UI  
-- 🚀 Have experience working with backend technologies such as Node.js, Express.js, Firebase, and MongoDB  
-- 🎯 Passionate about creating clean, scalable, and efficient code  
-- ☕ Always eager to learn new technologies and improve my skills while enjoying a good cup of coffee 😄  
+Frontend Developer with 3+ years of experience building scalable, high-performance web applications using 
+React.js and Next.js, with expertise in ERP systems, admin dashboards, e-learning platforms, and AI-integrated 
+solutions. Strong in TypeScript, Tailwind CSS, Redux Toolkit, TanStack Query, RESTful APIs, and modern frontend 
+architecture focused on performance, SEO, and responsive design 
 
 ---
 
