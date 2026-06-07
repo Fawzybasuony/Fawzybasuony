@@ -41,15 +41,16 @@ architecture focused on performance, SEO, and responsive design
  ---
 ## 📊 GitHub Statistics  
 
-![Fawzy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fawzybasuony&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fawzybasuony&layout=compact&theme=radical)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Fawzybasuony&theme=radical&hide_border=false)  
+![Fawzy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fawzybasuony&show_icons=true&theme=radical)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fawzybasuony&layout=compact&theme=radical)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=Fawzybasuony&theme=radical)
 ---
 
 ## 🏆 GitHub Trophies  
 
-![Trophy](https://github-profile-trophy.vercel.app/?username=Fawzybasuony&theme=radical&no-frame=false&no-bg=true&margin-w=4&row=1&column=6)  
+![Trophy](https://github-profile-trophy.vercel.app/?username=Fawzybasuony&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1&column=6)
 
  
 ---
