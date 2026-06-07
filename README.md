@@ -72,10 +72,6 @@ architecture focused on performance, SEO, and responsive design
 ![Linux](https://img.shields.io/badge/Linux-Ubuntu%2FDebian-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
  ---
 ## 📊 GitHub Statistics  
- 
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Fawzybasuony&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Fawzybasuony&layout=compact&theme=radical)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Fawzybasuony&theme=radical)
  
